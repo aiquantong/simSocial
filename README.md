@@ -27,6 +27,7 @@ simSocial是开源快速接入地方分享平台的sdk 功能库。
 {
     BOOL isRet = [SYShareManager handleOpenURL:url];
 
+
     return isRet;
 }
 
