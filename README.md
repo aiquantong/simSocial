@@ -26,6 +26,7 @@ simSocial是开源快速接入地方分享平台的sdk 功能库。
 }
 
 3， 添加uri schame
-  
+
+  ![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.28.45%20PM.png)
 
 
