@@ -36,7 +36,9 @@ simSocial是开源快速接入地方分享平台的sdk 功能库。
   ![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.28.45%20PM.png)
   
 4，复制资源
-	![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.39.09%20PM.png);
-	![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.39.19%20PM.png);
+
+![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.39.09%20PM.png);
+![image](https://github.com/aiquantong/simSocial/blob/master/Screen%20Shot%202016-06-04%20at%201.39.19%20PM.png);
+
 
 
